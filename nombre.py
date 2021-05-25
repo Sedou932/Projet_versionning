@@ -1,0 +1,3 @@
+def nombre (nombre_a_afficher):
+    for nombre in range(nombre_a_afficher):
+        print(nombre)
